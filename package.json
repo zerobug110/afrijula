@@ -1,0 +1,28 @@
+{
+  "name": "afrijula",
+  "version": "1.0.0",
+  "description": "afrijul website for small business",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss style/main.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zerobug110/afrijula.git"
+  },
+  "keywords": [
+    "small",
+    "business",
+    "softwares"
+  ],
+  "author": "Muhammed Bojang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zerobug110/afrijula/issues"
+  },
+  "homepage": "https://github.com/zerobug110/afrijula#readme",
+  "dependencies": {
+    "node-sass": "^5.0.0",
+    "sass": "^1.32.5"
+  }
+}
