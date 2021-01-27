@@ -1,1 +1,9 @@
+@import "abstract/mixin";
+@import "abstract/typography";
+@import "base/base.scss";
 @import "layouts/header";
+@import "layouts/about";
+@import "layouts/features";
+@import "layouts/plans";
+@import "layouts/description";
+@import "layouts/footer";
